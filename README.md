@@ -1,9 +1,19 @@
 ## Konstrukcja diagramu Woronoja jako grafu dualnego do triangulacji Delaunay'a wyznaczonej algorytmem Bowyera-Watsona | Bartosz Hanc | AGH UST 2022/23
 ### Opis programu
-Repozytorium zawiera notatnik Jupyter, w którym zaimplementowano algorytm Boweyera-Watsona obliczający triangulację Delaunay'a
-zadanej chmury punktów, a następnie na jej podstawie obliczający diagram Woronoja dualny do tej triangulacji. Notatnik zawiera również
-metody do wizualizacji wyników algorytmu oraz wizualizację poszczególnych etapów działania algorytmu. Plik BowyerWatson.py zawiera testy
-wydajnościowe zaimplementowanego algorytmu, natomiast w folderze report znajduje się sprawozdanie opisujące wszystkie elementy projektu.
+Repozytorium zawiera notatnik Jupyter, w którym zaimplementowano dwa algorytmy obliczające diagram Woronoja zadanej chmury punktów:
+
+* algorytm Boweyera-Watsona obliczający triangulację Delaunay'a zadanej chmury
+punktów, a następnie na jej podstawie obliczający diagram Woronoja dualny do tej
+triangulacji;
+
+* algorytm przybliżony brute-force, który wprowadza dyskretną kratę ℤ^2 na
+płaszczyźnie i dla każdego punktu kratowego znajduje punkt chmury najmniej od
+niego oddalony
+
+Notatnik zawiera również metody do wizualizacji wyników algorytmów oraz
+interaktywną wizualizację poszczególnych etapów działania algorytmu
+Bowyera-Watsona. W folderze [report](report) znajduje się sprawozdanie z
+projektu oraz prezentacja.
 
 ### Przykładowe wyniki
 ![](report/figs/voronoi1.png)
