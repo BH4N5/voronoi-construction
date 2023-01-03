@@ -9,3 +9,4 @@ wydajnościowe zaimplementowanego algorytmu, natomiast w folderze report znajduj
 ![](report/figs/voronoi1.png)
 ![](report/figs/voronoi2.png)
 ![](report/figs/voronoi3.png)
+![](report/figs/approx.png)
