@@ -1,4 +1,4 @@
-## Konstrukcja diagramu Woronoja jako grafu dualnego do triangulacji Delaunay'a wyznaczonej algorytmem Bowyera-Watsona | Bartosz Hanc | AGH UST 2022/23
+## Konstrukcja diagramu Woronoja | Bartosz Hanc | AGH UST 2022/23
 ### Opis programu
 Repozytorium zawiera notatnik Jupyter, w którym zaimplementowano dwa algorytmy obliczające diagram Woronoja zadanej chmury punktów:
 
