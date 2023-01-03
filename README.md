@@ -8,7 +8,7 @@ triangulacji;
 
 * algorytm przybliżony brute-force, który wprowadza dyskretną kratę ℤ^2 na
 płaszczyźnie i dla każdego punktu kratowego znajduje punkt chmury najmniej od
-niego oddalony
+niego oddalony.
 
 Notatnik zawiera również metody do wizualizacji wyników algorytmów oraz
 interaktywną wizualizację poszczególnych etapów działania algorytmu
